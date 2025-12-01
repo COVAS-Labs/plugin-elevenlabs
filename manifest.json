@@ -1,0 +1,9 @@
+{
+    "guid": "208ae9b9-6254-402f-9d7b-74cf3d6f6085",
+    "name": "COVAS:NEXT ElevenLabs Plugin",
+    "version": "0.1.0",
+    "author": "lucaelin",
+    "repository": "https://github.com/COVAS-Labs/cn-plugin-elevenlabs",
+    "description": "ElevenLabs Text-to-Speech integration for COVAS:NEXT with low-latency streaming",
+    "entrypoint": "cn-plugin-elevenlabs.py"
+}
